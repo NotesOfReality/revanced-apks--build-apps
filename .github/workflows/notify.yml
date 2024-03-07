@@ -4,9 +4,9 @@ on:
   workflow_call:
     secrets:
       TELEGRAM_TO:
-        required: true
+        required: false
       TELEGRAM_TOKEN:
-        required: true
+        required: false
     inputs:
       release_tag:
         type: string
