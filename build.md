@@ -1,5 +1,5 @@
-Music-ReX (arm64-v8a): 6.42.52  
 Music-ReX (arm-v7a): 6.42.52  
+Music-ReX (arm64-v8a): 6.42.52  
 YouTube-ReX: 19.05.36  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
