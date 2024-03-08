@@ -120,4 +120,6 @@ done
 
 ui_print "* Done"
 ui_print "  by j-hc (github.com/j-hc)"
+ui_print " This particular build is courtesy of NotesOfReality "
+ui_print " Therefore don't go bother j-hc in case of issue, not in the first place at least "
 ui_print " "
